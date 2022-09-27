@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My New Website",
+      "body": "I make websites for my job,hobby, and schooling!",
+      "author": "David Dwight",
+      "id": 1
+    },
+    {
+      "title": "My New Patients",
+      "body": "I take care of sick people when I go to work!",
+      "author": "Chandra Dwight",
+      "id": 2
+    },
+    {
+      "title": "My New Property",
+      "body": "I just bought a house that matches my new car!",
+      "author": "Anthony Dwight",
+      "id": 3
+    }
+  ]
+}
