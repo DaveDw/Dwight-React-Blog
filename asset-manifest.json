@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dwight-React-Blog/static/css/main.25e3f785.css",
+    "main.js": "/Dwight-React-Blog/static/js/main.07020185.js",
+    "index.html": "/Dwight-React-Blog/index.html",
+    "main.25e3f785.css.map": "/Dwight-React-Blog/static/css/main.25e3f785.css.map",
+    "main.07020185.js.map": "/Dwight-React-Blog/static/js/main.07020185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25e3f785.css",
+    "static/js/main.07020185.js"
+  ]
+}
